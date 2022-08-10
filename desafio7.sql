@@ -1,0 +1,1 @@
+SELECT id FROM northwind.products WHERE id IS NOT NULL ORDER BY id DESC LIMIT 5;
